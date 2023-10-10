@@ -1,6 +1,6 @@
 # Recipes
 
-This is a simple website written in HTML-only.
+This is a simple website written in HTML only.
 
 It contains recipes of some of the foods I like.
 
