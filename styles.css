@@ -1,0 +1,39 @@
+body {
+  background-color: #094074;
+  font-family: "Georgia", serif;
+}
+
+a {
+  color: #FE654F;
+}
+
+h1 {
+  color: #fe9000;
+  font-family: "Brush Script MT", cursive;
+}
+
+h2,
+h3 {
+  color: #FFDD4A;
+  font-family: serif, sans-serif;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+ul {
+  font-weight: 700;
+}
+
+p,
+li {
+  color: #FAA381;
+  font-size: 18px;
+}
+
+ul a {
+  color: #5ADBFF;
+  text-decoration: none;
+  font-family: "Brush Script MT", cursive;
+}
