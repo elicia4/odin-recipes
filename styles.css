@@ -1,10 +1,15 @@
 body {
   background-color: #094074;
   font-family: "Georgia", serif;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  color: #FAA381;
 }
 
 a {
   color: #FE654F;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 h1 {
@@ -19,17 +24,11 @@ h3 {
 }
 
 h3 {
-  font-size: 22px;
+  font-size: 1.375rem;
 }
 
 ul {
   font-weight: 700;
-}
-
-p,
-li {
-  color: #FAA381;
-  font-size: 18px;
 }
 
 ul a {
