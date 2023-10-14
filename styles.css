@@ -1,9 +1,27 @@
+/* {
+  border: 1px solid red; 
+} */
+
 body {
   background-color: #094074;
   font-family: "Georgia", serif;
   font-size: 1.125rem;
   line-height: 1.5;
   color: #FAA381;
+}
+
+.center {
+  text-align: center;
+}
+
+.middle {
+  margin: 0 auto;
+  width: 35%;
+}
+
+.navigation {
+  display: inline-block;
+  text-align: left;
 }
 
 a {
@@ -20,6 +38,12 @@ h2,
 h3 {
   color: #FFDD4A;
   font-family: serif, sans-serif;
+  text-align: center;
+}
+
+p, ul, ol, h3, h2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 h3 {
